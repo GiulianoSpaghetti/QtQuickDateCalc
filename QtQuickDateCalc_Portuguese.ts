@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="it_IT">
+<TS version="2.1" language="pt">
 <context>
     <name>DatePicker</name>
     <message>
         <location filename="DatePicker.qml" line="37"/>
         <source>January</source>
-        <translation>Gennaio</translation>
+        <translation>Janeiro</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="37"/>
         <source>February</source>
-        <translation>Febbraio</translation>
+        <translation>Fevereiro</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="37"/>
         <source>March</source>
-        <translation>Marzo</translation>
+        <translation>Março</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="37"/>
         <source>April</source>
-        <translation>Aprile</translation>
+        <translation>Abril</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="37"/>
         <source>May</source>
-        <translation>Maggio</translation>
+        <translation>Maio</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="37"/>
         <source>June</source>
-        <translation>Giugno</translation>
+        <translation>Junho</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="38"/>
         <source>July</source>
-        <translation>Luglio</translation>
+        <translation>Julho</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="38"/>
@@ -46,22 +46,22 @@
     <message>
         <location filename="DatePicker.qml" line="38"/>
         <source>September</source>
-        <translation>Settembre</translation>
+        <translation>Setembro</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="38"/>
         <source>October</source>
-        <translation>Ottobre</translation>
+        <translation>Outubro</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="38"/>
         <source>November</source>
-        <translation>Novembre</translation>
+        <translation>Novembro</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="38"/>
         <source>December</source>
-        <translation>Dicembre</translation>
+        <translation>Dezembro</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="75"/>
@@ -72,32 +72,32 @@
     <message>
         <location filename="DatePicker.qml" line="75"/>
         <source>Mo</source>
-        <translation>Lu</translation>
+        <translation>Se</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="75"/>
         <source>Tu</source>
-        <translation>Ma</translation>
+        <translation>Te</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="75"/>
         <source>We</source>
-        <translation>Me</translation>
+        <translation>Qu</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="75"/>
         <source>Th</source>
-        <translation>Gi</translation>
+        <translation>Qu</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="75"/>
         <source>Fr</source>
-        <translation>Ve</translation>
+        <translation>Se</translation>
     </message>
     <message>
         <location filename="DatePicker.qml" line="75"/>
         <source>Sa</source>
-        <translation>Sa</translation>
+        <translation>Sá</translation>
     </message>
 </context>
 <context>
@@ -105,24 +105,22 @@
     <message>
         <location filename="HomeForm.qml" line="28"/>
         <source>Insert the date</source>
-        <translatorcomment>Inserisci la data</translatorcomment>
-        <translation>Inserisci la data</translation>
+        <translation>Digite a data</translation>
     </message>
     <message>
         <location filename="HomeForm.qml" line="42"/>
         <source>Calculate</source>
-        <translatorcomment>Calcola</translatorcomment>
-        <translation>Calcola</translation>
+        <translation>Calcular</translation>
     </message>
     <message>
         <location filename="HomeForm.qml" line="48"/>
         <source>There are </source>
-        <translation>Mancano </translation>
+        <translation>Faltam </translation>
     </message>
     <message>
         <location filename="HomeForm.qml" line="48"/>
         <source> days left.</source>
-        <translation> giorni.</translation>
+        <translation> dias.</translation>
     </message>
 </context>
 <context>
@@ -138,7 +136,7 @@
     <message>
         <location filename="Page1Form.qml" line="9"/>
         <source>Informations</source>
-        <translation>Informazioni</translation>
+        <translation>Em formação</translation>
     </message>
 </context>
 <context>
@@ -146,7 +144,7 @@
     <message>
         <location filename="main.qml" line="42"/>
         <source>Informations</source>
-        <translation>Informazioni</translation>
+        <translation>Em formação</translation>
     </message>
 </context>
 </TS>
