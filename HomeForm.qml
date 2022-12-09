@@ -36,6 +36,7 @@ Page {
                                                   "yyyy-MM-dd")) // today
             Layout.fillWidth: true
             Layout.fillHeight: true
+            opacity: 0.5
         }
         Button {
             text: qsTr("Calculate")
@@ -54,7 +55,7 @@ Page {
         }
         Label {
             id: result
-            text: qsTr("Press calculate")
+            text: ""
             color: "white"
             Layout.fillWidth: true
         }

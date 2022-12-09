@@ -42,7 +42,7 @@ ApplicationWindow {
                 text: qsTr("Informations")
                 width: parent.width
                 onClicked: {
-                    stackView.push("Page1Form.ui.qml")
+                    stackView.push("Page1Form.qml")
                     drawer.close()
                 }
             }
@@ -51,7 +51,7 @@ ApplicationWindow {
 
     StackView {
         id: stackView
-        initialItem: "HomeForm.ui.qml"
+        initialItem: "HomeForm.qml"
         anchors.fill: parent
     }
 }

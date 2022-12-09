@@ -144,7 +144,7 @@
     <message>
         <location filename="main.qml" line="42"/>
         <source>Informations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Informations</translation>
     </message>
 </context>
 </TS>

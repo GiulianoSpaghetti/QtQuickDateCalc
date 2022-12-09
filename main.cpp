@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
     app.setOrganizationDomain("org.alterivista.numerone");
     app.setApplicationName("QTQuickDateCalc");
     QTranslator t;
-    t.load("QtQuickDateCalc_"+QLocale::languageToString(QLocale::system().language()), "./i18n");
+    t.load("QtQuickDateCalc_"+QLocale::languageToString(QLocale::system().language()), "/usr/share/QtQuickDateCalc/translations");
     app.installTranslator(&t);
     QQmlApplicationEngine engine;
     const QUrl url(QStringLiteral("qrc:/main.qml"));

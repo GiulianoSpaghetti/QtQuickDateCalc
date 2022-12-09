@@ -1,0 +1,9 @@
+/usr/local/opt/QtQuickDateCalc/QtQuickDateCalc
+/usr/local/opt/QtQuickDateCalc/translations/QtQuickDateCalc_German.qm
+/usr/local/opt/QtQuickDateCalc/translations/QtQuickDateCalc_French.qm
+/usr/local/opt/QtQuickDateCalc/translations/QtQuickDateCalc_Spanish.qm
+/usr/local/opt/QtQuickDateCalc/translations/QtQuickDateCalc_Portuguese.qm
+/usr/local/opt/QtQuickDateCalc/translations/QtQuickDateCalc_Italian.qm
+/usr/local/share/applications/QtQuickDateCalc.desktop
+/usr/local/share/applications/QtQuickDateCalc.desktop
+/usr/local/share/icons/QtQuickDateCalc.png/icon.png
