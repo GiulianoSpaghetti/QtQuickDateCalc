@@ -4,7 +4,7 @@ A countdown in qtquick. It's localized in French, English, German, Italian, Port
 # install
 Debian
 
-Per prima cosa bisogna scaricaricare il dotnet dal repository Microsoft. Seguite le istruzioni all'indirizzo https://docs.microsoft.com/it-it/windows-server/administration/linux-package-repository-for-microsoft-software per impostare il repository, poi date
+Per prima cosa bisogna abilitare il repository
 
 sudo add-apt-repository "http://numeronesoft.ddns.net/repos/apt/debian bullseye main"
 
