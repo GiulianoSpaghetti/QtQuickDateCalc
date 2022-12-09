@@ -1,7 +1,7 @@
 # QtQuickDateCalc
 Un countdown qtquick. E' localizzato in Francese, Inglese, Tedesco, Italiano, Portoghese e SPagnolo.
 
-# install
+# Installazione
 
 Per prima cosa bisogna abilitare il repository
 
@@ -11,6 +11,8 @@ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 52B68EEB
 
 sudo apt install qtquickdatecalc
 
+# Traduzioni
+Aprire il file
 
 # Donazioni
 
