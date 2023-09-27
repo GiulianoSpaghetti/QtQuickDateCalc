@@ -3,11 +3,7 @@ Un countdown qtquick. E' localizzato in Francese, Inglese, Tedesco, Italiano, Po
 
 # Installazione
 
-Per prima cosa bisogna abilitare il repository
-
-sudo add-apt-repository "http://numeronesoft.ddns.net/repos/apt/debian bullseye main"
-
-sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 52B68EEB
+Seguite le istruzioni su http://numeronesoft.ddns.net
 
 sudo apt install qtquickdatecalc
 
