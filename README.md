@@ -14,6 +14,3 @@ A quest punto bisogna salvare il file col nome della traduzione che avete scelto
 # Donazione
 
 http://numerone.altervista.org/donazioni.php
-
-# Bibliografia
-https://www.ics.com/blog/creating-qml-controls-scratch-datepicker
